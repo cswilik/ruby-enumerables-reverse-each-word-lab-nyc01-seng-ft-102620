@@ -12,7 +12,7 @@ end
 # def reverse_each_word(sentence)
 #   array = sentence.split(" ")
 #   array.collect do |word|
-#     word.reverse 
+#     word.reverse  #this reverses the array, but it doesn't stay? for the array.join(" ")?
 #   end 
 #   array.join(" ")
 # end 
